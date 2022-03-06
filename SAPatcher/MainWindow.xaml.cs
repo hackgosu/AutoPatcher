@@ -27,7 +27,7 @@ namespace SAPatcher
     {
         private const String defaultURL = "http://192.168.176.129/";
         private const String jsonFileName = "patcher.json";
-        private const String defaultPATH = "stoneage";
+        private const String defaultPATH = "defaultURLPath";
         private String jsonResult = String.Empty;
         private int fileCount = 0;
 
